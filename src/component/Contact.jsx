@@ -65,7 +65,7 @@ function Contact() {
             </form>
 
             <div className="text-center text-md-left">
-              <a className="btn btn-primary" href="https://github.com/Mustafa-Majeed">Send</a>
+              <a className="btn btn-primary" href="https://main--grand-kataifi-c090d4.netlify.app/">Send</a>
               &nbsp;&nbsp;&nbsp;<Link to="/" className='btn btn-primary'>Back to Home</Link>
             </div>
             <div className="status"></div>

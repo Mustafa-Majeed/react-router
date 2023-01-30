@@ -10,22 +10,22 @@ function Footer() {
                             <a href="#">Mustafa Khan</a>
                         </div>
                         <ul class="list-unstyled nav-links mb-5">
-                            <li><a href="#">About</a></li>
-                            <li><a href="#">Services</a></li>
-                            <li><a href="#">Press</a></li>
-                            <li><a href="#">Careers</a></li>
-                            <li><a href="#">FAQ</a></li>
-                            <li><a href="#">Legal</a></li>
-                            <li><a href="#">Contact</a></li>
+                            <li><a>About</a></li>
+                            <li><a>Services</a></li>
+                            <li><a>Press</a></li>
+                            <li><a>Careers</a></li>
+                            <li><a>FAQ</a></li>
+                            <li><a>Legal</a></li>
+                            <li><a>Contact</a></li>
                         </ul>
                         <div class="social mb-4">
                             <h3>Stay in touch</h3>
                             <ul class="list-unstyled">
-                                <li class="in"><a href="#"><span class="icon-instagram"></span></a></li>
-                                <li class="fb"><a href="#"><span class="icon-facebook"></span></a></li>
-                                <li class="tw"><a href="#"><span class="icon-twitter"></span></a></li>
-                                <li class="pin"><a href="#"><span class="icon-pinterest"></span></a></li>
-                                <li class="dr"><a href="#"><span class="icon-dribbble"></span></a></li>
+                                <li class="in"><a><span class="icon-instagram"></span></a></li>
+                                <li class="fb"><a><span class="icon-facebook"></span></a></li>
+                                <li class="tw"><a><span class="icon-twitter"></span></a></li>
+                                <li class="pin"><a><span class="icon-pinterest"></span></a></li>
+                                <li class="dr"><a ><span class="icon-dribbble"></span></a></li>
                             </ul>
                         </div>
                         <div class="copyright">

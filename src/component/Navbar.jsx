@@ -20,11 +20,11 @@ function Navbar() {
                   Products
                 </Link>
                 <ul className="dropdown-menu bg-dark " aria-labelledby="navbarDropdown">
-                  <li><Link className="dropdown-item text-light" to="Products/Clothes">Clothes</Link></li>
+                  <li><Link className="dropdown-item text-primary" to="Products/Clothes">Clothes</Link></li>
                   <li><hr className="dropdown-divider text-light" /></li>
-                  <li><Link className="dropdown-item text-light" to="Products/Sneakers">Sneakers</Link></li>
+                  <li><Link className="dropdown-item text-warning" to="Products/Sneakers">Sneakers</Link></li>
                   <li><hr className="dropdown-divider text-light" /></li>
-                  <li><Link className="dropdown-item text-light" to="Products/More">More</Link></li>
+                  <li><Link className="dropdown-item text-danger" to="Products/More">More</Link></li>
                 </ul>                
               </li>
               <li className="nav-item">

@@ -1,9 +1,12 @@
 import { Outlet ,Link } from 'react-router-dom'
 import React from 'react'
+import Navbar from './Navbar'
 function Products() {
   return (
+    <>
+    <Navbar/>
     <div className='d-flex justify-content-center align-items-center flex-column container'>
-      <h1>veiw oue products</h1>
+      <h1>veiw our products</h1>
       <div className='d-flex justify-content-center align-items-center'>
 
       <Link to="Clothes" className='btn btn-primary'>Clothes</Link>
@@ -18,6 +21,7 @@ function Products() {
       <br />
       <Link to="/" className='btn btn-primary'>back to Home</Link>
     </div>
+    </>
   )
 }
 

@@ -1,7 +1,10 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
+import Navbar from './Navbar'
 function Contact() {
   return (
+    <>
+    <Navbar />
     <div className='container'>
       <section className="mb-4">
 
@@ -92,6 +95,7 @@ function Contact() {
 
       </section>
     </div>
+    </>
   )
 }
 

@@ -2,34 +2,34 @@ import React from 'react'
 
 function Footer() {
     return (
-        <footer class="footer-16371">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-md-9 text-center">
-                        <div class="footer-site-logo mb-4">
-                            <a href="#">Mustafa Khan</a>
+        <footer className="footer-16371">
+            <div className="container">
+                <div className="row justify-content-center">
+                    <div className="col-md-9 text-center">
+                        <div className="footer-site-logo mb-4">
+                            <a href="https://github.com/Mustafa-Majeed">Mustafa Khan</a>
                         </div>
-                        <ul class="list-unstyled nav-links mb-5">
-                            <li><a>About</a></li>
-                            <li><a>Services</a></li>
-                            <li><a>Press</a></li>
-                            <li><a>Careers</a></li>
-                            <li><a>FAQ</a></li>
-                            <li><a>Legal</a></li>
-                            <li><a>Contact</a></li>
+                        <ul className="list-unstyled nav-links mb-5">
+                            <li><a href="https://github.com/Mustafa-Majeed">About</a></li>
+                            <li><a href="https://github.com/Mustafa-Majeed">Services</a></li>
+                            <li><a href="https://github.com/Mustafa-Majeed">Press</a></li>
+                            <li><a href="https://github.com/Mustafa-Majeed">Careers</a></li>
+                            <li><a href="https://github.com/Mustafa-Majeed">FAQ</a></li>
+                            <li><a href="https://github.com/Mustafa-Majeed">Legal</a></li>
+                            <li><a href="https://github.com/Mustafa-Majeed">Contact</a></li>
                         </ul>
-                        <div class="social mb-4">
+                        <div className="social mb-4">
                             <h3>Stay in touch</h3>
-                            <ul class="list-unstyled">
-                                <li class="in"><a><span class="icon-instagram"></span></a></li>
-                                <li class="fb"><a><span class="icon-facebook"></span></a></li>
-                                <li class="tw"><a><span class="icon-twitter"></span></a></li>
-                                <li class="pin"><a><span class="icon-pinterest"></span></a></li>
-                                <li class="dr"><a ><span class="icon-dribbble"></span></a></li>
+                            <ul className="list-unstyled">
+                                <li className="in"><a href="https://github.com/Mustafa-Majeed"><span className="icon-instagram"></span></a></li>
+                                <li className="fb"><a href="https://github.com/Mustafa-Majeed"><span className="icon-facebook"></span></a></li>
+                                <li className="tw"><a href="https://github.com/Mustafa-Majeed"><span className="icon-twitter"></span></a></li>
+                                <li className="pin"><a href="https://github.com/Mustafa-Majeed"><span className="icon-pinterest"></span></a></li>
+                                <li className="dr"><a href="https://github.com/Mustafa-Majeed"><span className="icon-dribbble"></span></a></li>
                             </ul>
                         </div>
-                        <div class="copyright">
-                            <p class="mb-0"><small>&copy; All Rights Reserved.</small></p>
+                        <div className="copyright">
+                            <p className="mb-0"><small>&copy; All Rights Reserved.</small></p>
                         </div>
                     </div>
                 </div>
